@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "234336593435",
+    "project_id": "wallet-hunter-f590f",
+    "storage_bucket": "wallet-hunter-f590f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234336593435:android:6f7866501d968a61087abe",
+        "android_client_info": {
+          "package_name": "com.example.mood_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbbgL17hE9ocSe_w2u8OaNoolhs5-vVFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234336593435:android:09570810dad4ffd7087abe",
+        "android_client_info": {
+          "package_name": "com.example.wallet_hunter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbbgL17hE9ocSe_w2u8OaNoolhs5-vVFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
